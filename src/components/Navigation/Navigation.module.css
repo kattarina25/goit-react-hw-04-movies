@@ -1,0 +1,15 @@
+.List {
+  display: flex;
+}
+.Item:not(:last-child) {
+  margin-right: 20px;
+}
+.Link {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 700;
+}
+.Active {
+  color: #23cf1d;
+}

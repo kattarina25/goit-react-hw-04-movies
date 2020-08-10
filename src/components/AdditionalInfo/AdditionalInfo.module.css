@@ -1,0 +1,23 @@
+.AdditionalInfo {
+  box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.2);
+}
+.Title {
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.List {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.Item {
+  margin-right: 15px;
+  font-size: 18px;
+}
+.Link {
+  color: #ffffff;
+}
+.Active {
+  color: #dc143c;
+}

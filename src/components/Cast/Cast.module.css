@@ -1,0 +1,11 @@
+.List {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+.Item {
+  width: 150px;
+  margin-bottom: 0 auto;
+  text-align: center;
+}
